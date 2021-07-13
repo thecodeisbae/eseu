@@ -1,0 +1,64 @@
+#logo {
+    width: 60px;
+    height: 60px;
+    margin: -7px;
+}
+
+#texte {
+    margin-left: 100px;
+    font-family: Castellar;
+    font-weight: bolder;
+}
+
+#corps {
+    text-align: center;
+    font-family: 'Century Gothic Regular';
+}
+
+#forms {
+    background-color: #5CF1FF;
+    padding: 10px;
+}
+
+.field-icon {
+    float: right;
+    margin-left: -25px;
+    margin-top: -25px;
+    position: relative;
+    z-index: 2;
+}
+
+#disp {
+    color: #333
+}
+
+#titre {
+    text-align: left;
+    border-radius: 6px;
+    background-color: #5CF1FF;
+    padding: 10px;
+}
+
+#para1 {
+    border: 2px solid black;
+    background-color: #5CF1FF;
+    color: black;
+    border-radius: 6px;
+    padding: 10px;
+}
+
+#para2 {
+    color: white;
+    background-color: crimson;
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 10px;
+}
+
+#para3 {
+    color: black;
+    background-color: gold;
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 10px;
+}

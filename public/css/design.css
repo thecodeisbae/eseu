@@ -1,0 +1,42 @@
+#logo {
+    float: left;
+    width: 60px;
+    height: 58px;
+    margin-left: -15%;
+    padding: 0px;
+    border: 1px solid black;
+}
+
+#title {
+    margin-left: 5px;
+    top: 20px;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: '';
+}
+
+#theme button {
+    position: fixed;
+    right: 0px;
+    transition: 0s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+    -webkit-transition: 0s;
+    -moz-transition: 0s;
+    -ms-transition: 0s;
+    -o-transition: 0s;
+}
+
+#dark {
+    top: 40px;
+    background-color: black;
+}
+
+#light {
+    top: 140px;
+    background-color: cyan;
+}
